@@ -75,7 +75,7 @@ def main():
 #The real thing
 
 print("\n-----------------------------------------------------------------")
-print("             Welcome To Muhammad Zahidi's Calculator!              ")
+print("              Welcome To ZumTheZazaKing's Calculator!              ")
 print("-----------------------------------------------------------------\n")
 
 while True:
